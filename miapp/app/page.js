@@ -155,7 +155,7 @@ export default function Home() {
             <td className="flex flex-row items-top gap-1">
               <span className="">16.</span>
               <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
-              <p className="text-[14px]">Dracula's Biggest Mistake</p>
+              <p className="text-[14px]">Draculas Biggest Mistake</p>
               <p className="text-[13px] pt-1 text-[#828282]">(ayjay.org)</p>
             </td>
             <p className="text-[9px] text-[#828282] px-4">20 points by chesterfield 2 hours ago | hide | 24 comments</p>
