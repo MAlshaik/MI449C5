@@ -18,7 +18,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">1.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Airfoil</p>
               <p className="text-[13px] pt-1 text-[#828282]">(ciechanow.ski)</p>
             </td>
@@ -27,7 +27,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">2.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Amazon lobbyists to be banned from European parliament</p>
               <p className="text-[13px] pt-1 text-[#828282]">(uni-europa.org)</p>
             </td>
@@ -36,7 +36,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">3.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">SuperTux</p>
               <p className="text-[13px] pt-1 text-[#828282]">(github.com/supertux)</p>
             </td>
@@ -45,7 +45,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">4.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Pure Programming Language</p>
               <p className="text-[13px] pt-1 text-[#828282]">(agraef.github.io)</p>
             </td>
@@ -54,7 +54,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">5.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Testing the F-35C Tailhook</p>
               <p className="text-[13px] pt-1 text-[#828282]">(the-engi-nerd. github.io)</p>
             </td>
@@ -63,7 +63,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">6.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Ant Geopolitics</p>
               <p className="text-[13px] pt-1 text-[#828282]">(aeon.co)</p>
             </td>
@@ -72,7 +72,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">7.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Tesorio (YC S15) Is Hiring a Head of Infrastructure (100% Remote)</p>
               <p className="text-[13px] pt-1 text-[#828282]">(tesorio.com)</p>
             </td>
@@ -81,7 +81,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">8.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">The /unblock API from Browserless: dodging bot detection as a service</p>
               <p className="text-[13px] pt-1 text-[#828282]">(browserless.io)</p>
             </td>
@@ -90,7 +90,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">9.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">I turned my open-source project into a full-time business</p>
               <p className="text-[13px] pt-1 text-[#828282]">(emailengine.app)</p>
             </td>
@@ -100,7 +100,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">10.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">SpaceX discloses cause of Starship anomalies as it clears an FAA hurdle</p>
               <p className="text-[13px] pt-1 text-[#828282]">(arstechnica.com)</p>
             </td>
@@ -109,7 +109,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">11.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Blazer: Business intelligence made simple</p>
               <p className="text-[13px] pt-1 text-[#828282]">(github.com/ankane)</p>
             </td>
@@ -118,7 +118,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">12.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Apple cancels work on electric car, shifts team to generative AI</p>
               <p className="text-[13px] pt-1 text-[#828282]">(bloomberg.com)</p>
             </td>
@@ -127,7 +127,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">13.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Synthetic data generation for tabular data</p>
               <p className="text-[13px] pt-1 text-[#828282]">(github.com/sdv-dev)</p>
             </td>
@@ -136,7 +136,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">14.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Show HN: Mountaineer - Webapps in Python and React</p>
               <p className="text-[13px] pt-1 text-[#828282]">(github.com/piercefreeman)</p>
             </td>
@@ -145,7 +145,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">15.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Show HN: I built an open-source data copy tool called ingestr</p>
               <p className="text-[13px] pt-1 text-[#828282]">(github.com/bruin-data)</p>
             </td>
@@ -154,7 +154,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">16.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Dracula's Biggest Mistake</p>
               <p className="text-[13px] pt-1 text-[#828282]">(ayjay.org)</p>
             </td>
@@ -163,7 +163,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">17.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Consider the Pawpaw</p>
               <p className="text-[13px] pt-1 text-[#828282]">(beltmag.com)</p>
             </td>
@@ -172,7 +172,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">18.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Why time seems to pass faster as we age</p>
               <p className="text-[13px] pt-1 text-[#828282]">(invertedpassion.com)</p>
             </td>
@@ -181,7 +181,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">19.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">The Second Golden Age of Emacs</p>
               <p className="text-[13px] pt-1 text-[#828282]">(batsov.com)</p>
             </td>
@@ -190,7 +190,7 @@ export default function Home() {
         <tr className="bg-[#f6f6ef] flex flex-col">
             <td className="flex flex-row items-top gap-1">
               <span className="">20.</span>
-              <img className="pb-2"src="triangle.svg" width={10} height={10}></img>
+              <Image className="pb-2"src="triangle.svg" alt="yo" width={10} height={10} />
               <p className="text-[14px]">Social Media First Amendment Cases</p>
               <p className="text-[13px] pt-1 text-[#828282]">(lawfaremedia.org)</p>
             </td>
